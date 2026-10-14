@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-pos-app-apk/main/uwah-pos-app.apk",
-  "note": "盤點沒上傳會響鈴提醒，長按圖示可以進「提醒設定」；圖示換成 WOWA、名字改成屋哇進銷系統"
+  "note": "用 LINE 登入會直接叫出手機上的 LINE；盤點沒上傳會響鈴提醒"
 }
