@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 9,
+  "versionName": "1.8",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-pos-app-apk/main/uwah-pos-app.apk",
-  "note": "用 LINE 登入會自動叫出手機上的 LINE，不用再點小字；盤點沒上傳會響鈴提醒"
+  "note": "字不會再跟著手機字體變太大（長按圖示→App 設定可以自己調）；用著用著有新版也會跳出來告訴你"
 }
