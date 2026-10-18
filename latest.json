@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-pos-app-apk/main/uwah-pos-app.apk",
-  "note": "字不會再跟著手機字體變太大（長按圖示→App 設定可以自己調）；用著用著有新版也會跳出來告訴你"
+  "note": "修好「第一次更新打開允許安裝後沒反應」：回來會自動接著裝"
 }
